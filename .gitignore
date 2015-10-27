@@ -1,1 +1,4 @@
 /nn_assignments
+
+/datasets/cifar10.hdf5
+/datasets/mnist.hdf5
